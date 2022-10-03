@@ -25,3 +25,12 @@ Je dois créer une nouvelle branche
 Ajouter nouveau contenu
 La merg avec main 
 Puis push git hub
+
+### Génération d'une clés ssh (exercice)
+Partie de l'exercice 
+
+Laisser les valeurs par défaut (appuyer plusieurs fois sur la touche Entrée.
+
+Localiser la clé publique (par défaut : C:\Users<username>.ssh) et copier le contenu du fichier id_rsa.pub.
+
+Aller sur github dans les paramètres du compte (icône du compte en haut à droite de l'écran d'accueil >> settings >> SSH and GPG keys >> New SSH Key) et ajouter la clé nouvellement créée et copiée.
