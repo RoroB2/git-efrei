@@ -18,3 +18,10 @@ _avec un retour à la ligne_\
 | Paragraphe exemple aligné à gauche | Texte exemple centré | Texte exemple aligné a droite  |
 
 ## Création d'un compte gihub
+
+## Exercice 
+
+Je dois créer une nouvelle branche 
+Ajouter nouveau contenu
+La merg avec main 
+Puis push git hub
