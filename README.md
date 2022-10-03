@@ -15,5 +15,5 @@ _avec un retour à la ligne_\
 | Syntax     | Description | Test       |
 | :--------  | :---------: | :------:   |
 | Header     | Title       | Text       |
-| Paragraphe exemple aligné à gauche | Texte exemple centré | Texte exemple aligné a droite |
+| Paragraphe exemple aligné à gauche | Texte exemple centré | Texte exemple aligné a droite  |
 
