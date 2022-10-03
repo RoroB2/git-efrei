@@ -12,7 +12,7 @@ _avec un retour à la ligne_\
 **Je suis un paragraphe en gras.**
 
 
-| Syntax     | Description | Test |
-| :--------   | :---------:   | --:   |
-| Header     | Title       | Text |
-| Paragraphe exemple aligné à gauche | Texte exemple centré | Texte exemple aligné a droite 
+| Syntax     | Description | Test       |
+| :--------  | :---------: | :------:   |
+| Header     | Title       | Text       |
+| Paragraphe exemple aligné à gauche | Texte exemple centré | Texte exemple aligné a droite |
