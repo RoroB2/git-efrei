@@ -25,6 +25,12 @@ Je dois créer une nouvelle branche
 Ajouter nouveau contenu
 La merg avec main 
 Puis push git hub
+<<<<<<< HEAD
 Test 
 Test 
 Test1111
+=======
+Puis 
+Puis 
+Puis
+>>>>>>> 2e2b2c1ec4f76f53df72242a40ff852fe1a90bb3
